@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"angular",
+				"angular_skeleton"
+			],
+			[
+				"co",
+				"console.	console.log()"
+			],
+			[
+				"goalDetail",
+				"goalDetailId"
+			],
+			[
+				"follower",
+				"followers"
+			],
+			[
+				"features",
+				"featureDatas"
+			],
+			[
+				"followingID",
+				"followingIdList"
+			],
+			[
+				"following",
+				"followingArray"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"featureId",
+				"featureIdsCommaSeparated"
+			],
+			[
+				"facebook",
+				"facebookId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/JSHint/JSHint.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packe",
+		"selected_items":
+		[
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set xxml",
+				"Set Syntax: XML"
+			],
+			[
+				"pcl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zaferfatih/Developer/node_skeleton"
+	],
+	"file_history":
+	[
+		"/Users/zaferfatih/Developer/node_skeleton/node_skeleton.sublime-project",
+		"/Users/zaferfatih/Developer/angular_skeleton/Services/ManagementService.js",
+		"/Users/zaferfatih/Developer/angular_skeleton/Controllers/ManagementController.js",
+		"/Users/zaferfatih/Developer/angular_skeleton/app.js",
+		"/Users/zaferfatih/Developer/angular_skeleton/Views/management.html",
+		"/Users/zaferfatih/Developer/angular_skeleton/index.html",
+		"/Users/zaferfatih/Developer/angular_skeleton/README.md",
+		"/Users/zaferfatih/Developer/angular_skeleton/style/style.css",
+		"/Users/zaferfatih/Developer/angular_skeleton/lib/smart-table.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/controller/managementController.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/form-toppings.html",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/smart-table.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/form-coffees.html",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/controller/toppingController.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/coffeeController.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/controllers/coffeeController.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/style.css",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/test-app-ui.sublime-workspace",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/test-app-ui.sublime-project",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/app.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/form-payment.html",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/form-profile.html",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/form.html",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/index.html",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/controllers/toppingController.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/test-app-ui/controllers/profileController.js",
+		"/Users/zaferfatih/Developer/idea_workspace/test-apps/ui/style.css",
+		"/Users/zaferfatih/Developer/IngInterviewApi/Readme.md",
+		"/Users/zaferfatih/Developer/KidsGym/kidsgym/index.html",
+		"/Users/zaferfatih/Developer/apache-maven-3.2.3/conf/settings.xml",
+		"/Users/zaferfatih/Developer/idea_workspace/gs-maven/complete/pom.xml",
+		"/Users/zaferfatih/Documents/Clarkson/Payment",
+		"/Users/zaferfatih/.m2/settings.xml",
+		"/Users/zaferfatih/Desktop/7bcd1fc_SOL20_rollback.ddl",
+		"/Users/zaferfatih/Desktop/7bcd1fc_SOL20.ddl",
+		"/Users/zaferfatih/Desktop/SOL20_VoipWorkerLog_rollback.ddl",
+		"/Users/zaferfatih/Desktop/SOL20_VoipWorkerLog.ddl",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_4.ddl",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_3.ddl",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_2.dml",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_1.ddl",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_4_rollback.ddl",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_3_rollback.ddl",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_2_rollback.dml",
+		"/Users/zaferfatih/Desktop/deployment/7bcd1fc_SOL20_1_rollback.ddl",
+		"/Users/zaferfatih/Desktop/deployment/change_batchoplogmessage.sql",
+		"/Users/zaferfatih/312225_SOL2.0_TIB_release.ddl",
+		"/Users/zaferfatih/Desktop/a.java",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/foursquare.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/feature.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/user.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/user_goal_data.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/notifications.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/alarms.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/server.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/init.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/user_goal_setting.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/goal_detail.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/user_goal_period.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/package.json",
+		"/Users/zaferfatih/Developer/socialnetwork_server/Procfile",
+		"/Users/zaferfatih/Developer/socialnetwork_server/device.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/dailyTasks.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/_header.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/agent/_header.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/agent/_hello.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/agent/header.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/feedback/mock.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/feedback/live.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/foursquare",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/goal.js",
+		"/Users/zaferfatih/Developer/socialnetwork_server/routes/index.js",
+		"/Users/zaferfatih/Developer/nodetest.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"getToppings",
+			"hr",
+			"form-co",
+			"form",
+			"selected",
+			"group",
+			"css",
+			"getIPAssetsByCustomerAndAddress",
+			"kids_main",
+			"contract_detail_status",
+			"status",
+			"contractdetailstatus",
+			"contractdetailst",
+			"SimpleOffer",
+			"findProduct",
+			"findPro",
+			"snIdList",
+			"opts",
+			"push",
+			"console.log(req.body)",
+			"push",
+			"user",
+			"userGoalSettingId",
+			"foursquare data is",
+			"save",
+			";\n",
+			"save",
+			"updatedAt",
+			"updateAt",
+			"updateDate",
+			"clientTimeZoneOffset",
+			"localTimeZone",
+			"Add",
+			"toAdd",
+			"Add",
+			"doc",
+			"friendDataNotifications",
+			"new Date()",
+			"module",
+			"updateDate",
+			"updatedAt",
+			"updateDate",
+			"new Date()",
+			"//todo: date issue",
+			"date",
+			"followers.push",
+			"===",
+			"get",
+			"put",
+			"notifications",
+			"notification",
+			"findOne",
+			"toString",
+			"isClosed",
+			"userGoalPeriod.isClosed = req.body.isClosed",
+			"var followingArray = user.following",
+			"var followingArray = user.following;",
+			"userGoalPeriod.dataCount = req.body.dataCount",
+			"condition1",
+			"condition",
+			"goalDatas",
+			"console.log",
+			"dataArr",
+			"2",
+			"followers.push",
+			"isPrivate",
+			"');\n",
+			"var followingArray = user.following;",
+			"10",
+			"4",
+			"2",
+			"split",
+			"goal",
+			"goals",
+			"goalSchema",
+			"Goal",
+			"arr",
+			"[]",
+			"module",
+			"condition2",
+			"new Date",
+			"new ",
+			"new",
+			"condition",
+			"user.following",
+			"var followingArray = user.following",
+			"goalDatas",
+			"users",
+			"2",
+			"featureDatas",
+			"goalDatas",
+			"console",
+			"data",
+			"thumbImage",
+			"documentURL",
+			"res.json",
+			"user_goal_settings"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dataDetail",
+			"dataURL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 161.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "node_skeleton.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
